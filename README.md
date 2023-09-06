@@ -39,3 +39,8 @@ Vai precisar criar uma API key no console do google
 configurar no script a mesma API key para as duas CSE criadas.
 
 ![image](https://github.com/carlosalbertotuma/g00gl3-s34rch/assets/13341724/6f3451b2-3485-4caa-9120-874023ecd0f0)
+
+para instalar a dependencia você precisa digitar o comando dentro da pasta do arquivo requirements.txt.
+
+pip install -r requirements.txt
+
