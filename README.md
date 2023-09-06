@@ -32,7 +32,7 @@ qualquer nome, voce vai precisar do codigo da CSE, onde foi configurado somente 
 ![image](https://github.com/carlosalbertotuma/g00gl3-s34rch/assets/13341724/3fd01547-1699-4a56-942c-75934354c6f5)
 
 
-Vai precisar criar uma API key no console do google
+Vai precisar criar uma API key no console do google https://console.cloud.google.com/apis/credentials/key
 
 ![image](https://github.com/carlosalbertotuma/g00gl3-s34rch/assets/13341724/1243bcba-1387-4a34-be46-1830fada0b78)
 
