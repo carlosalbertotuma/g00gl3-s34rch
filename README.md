@@ -4,6 +4,16 @@ Tool para pentest e ethical hacking, a ferramenta utiliza a KEY e duas CSE do go
 
 Com um loop trago 20 primeiros resultados da pesquisa em cada dominio(CSE).
 
+Modifique esse ponto do script com sua key e seus CSE, nao esqueça de configurar no google CSE em cada um a pesquisa que deseja no caso um com exploit-db e outro com packetstormsecurity.
+
+SUAKEY = seucodigo
+SEUCODIGOCSE 1 e 2 
+---------------------------
+api_keys_and_ids = [
+    {"API_KEY": 'SUAKEY', "CSE_ID": 'SEUCODIGOCSE1'},
+    {"API_KEY": 'SUAKEY', "CSE_ID": 'SEUCODIGOCSE2'}
+---------------------------------------------------------
+
 ![image](https://github.com/carlosalbertotuma/g00gl3-s34rch/assets/13341724/52f0a8d2-f1eb-46ef-8fd6-8bea8b2fa523)
 
 ![image](https://github.com/carlosalbertotuma/g00gl3-s34rch/assets/13341724/d3873a68-5188-45f7-af79-9f93c693bed3)
